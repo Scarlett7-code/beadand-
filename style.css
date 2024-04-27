@@ -1,0 +1,10 @@
+@import "header.css";
+@import "section.css";
+
+body {
+  height: 100%;
+  display: block;
+  font-family: sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+}
